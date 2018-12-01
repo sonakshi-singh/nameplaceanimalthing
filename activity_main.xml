@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainactivitybg"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+
+    tools:context="com.example.sonia.nameplaceanimalthing.MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/textView"
+        android:layout_below="@+id/textView2"
+        android:layout_toRightOf="@+id/textView2"
+        android:layout_toEndOf="@+id/textView2"
+        android:layout_marginLeft="59dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="56dp" />
+
+    <Button
+        android:text="RULES"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/butt2"
+        android:layout_marginTop="65dp"
+        android:layout_below="@+id/butt1"
+        android:layout_alignLeft="@+id/butt1"
+        android:layout_alignStart="@+id/butt1" />
+
+
+
+    <Button
+        android:text="PLAY"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/butt1"
+        android:layout_marginTop="112dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
