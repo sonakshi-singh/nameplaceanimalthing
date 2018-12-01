@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487602102755",
+    "firebase_url": "https://nameplaceanimalthing-a0819.firebaseio.com",
+    "project_id": "nameplaceanimalthing-a0819",
+    "storage_bucket": "nameplaceanimalthing-a0819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487602102755:android:2067bb6506266dd6",
+        "android_client_info": {
+          "package_name": "com.example.sonia.nameplaceanimalthing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487602102755-uioc2dm3tsk59o2fs0u039dj3htacinf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sonia.nameplaceanimalthing",
+            "certificate_hash": "688c589c3f9f3d11005c8e16d6aeafb4da10ca95"
+          }
+        },
+        {
+          "client_id": "487602102755-94filg8tfe073gb3uamd2k2a5v933e54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0OyE7Q8HVDtCJg2c5pjwmT-jUnp2BOwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487602102755-94filg8tfe073gb3uamd2k2a5v933e54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
